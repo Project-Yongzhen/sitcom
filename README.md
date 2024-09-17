@@ -14,9 +14,8 @@
 
   <h3 align="center">"钱塘甬真数学情景剧答案解析"</h3>
   <p align="center">
-    一个"完美的"README模板去快速开始你的项目！
     <br />
-    <a href="https://github.com/shaojintian/Best_README_template"><strong>探索本项目的文档 »</strong></a>
+    <a href="https://github.com/project-yongzhen/sitcom/README.md"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
     <a href="https://github.com/project-yongzhen/sitcom/issues">报告Bug</a>
