@@ -8,7 +8,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/shaojintian/Best_README_template/">
+  <a href="https://github.com/Project-Yongzhen/sitcom">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -45,4 +45,4 @@
 
 ### 版权说明
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt)
+该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/Project-Yongzhen/sitcom/LICENSE.txt)
